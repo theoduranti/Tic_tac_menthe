@@ -1,7 +1,5 @@
 # TicTacToe
 
-Project TicTacToe with THP by Paul Broussolle
-
 ## How to use ?
 
 1. Run the ``First_game.rb`` file to play. Then add the first player, followed but the player 2.
@@ -59,7 +57,3 @@ root = File.expand_path("./", File.dirname(__FILE__))
 require "#{root}/lib/tic_tac_toe.rb"
 ``
 
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/paul00b/tic_tac_toe.
